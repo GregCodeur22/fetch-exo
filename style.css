@@ -1,0 +1,11 @@
+body{
+    background: rgba(126, 171, 19, 0.826);
+}
+.app{
+    width: 60%;
+    margin: 4rem auto;
+    background: rgba(255, 0, 0, 0.541);
+    border-radius: 20px;
+    padding: 2rem;
+    color: white;
+}
